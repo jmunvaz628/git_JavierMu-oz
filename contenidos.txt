@@ -1,0 +1,1 @@
+Sección 1: Introducción a Git\nSección 2: Flujo de trabajo básico\nSección 3: Repositorios remotos
